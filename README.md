@@ -1,4 +1,4 @@
-This project is a simple local network chat application with a graphical user interface (GUI) built in Python using Tkinter. It includes two main programs:
+This project is a ocal network chat application with a graphical user interface (GUI) built in Python using Tkinter. It includes two main programs:
 Chat Server (server_gui.py):
 The server allows multiple clients to connect over a local Wi-Fi or LAN network. It displays all chat messages in a scrollable window and lets the server operator send messages to all connected clients. The server uses threading to handle multiple clients at once and broadcasts messages to everyone in the chat.
 Chat Client (client_gui.py):
